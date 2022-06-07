@@ -1,5 +1,6 @@
 ## 鸣谢
 
+- [wy580477项目地址] (https://github.com/wy580477/heroku-vmess-trojan-argo)
 - [Project X](https://github.com/XTLS/Xray-core)
 - [v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku)
 - [v2argo](https://github.com/funnymdzz/v2argo)
